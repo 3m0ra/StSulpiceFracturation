@@ -24,6 +24,8 @@ This file contains all the data of all the plans extracted from the cliff treate
 - Dip dir.: [°] the dip direction of the plane.
 - Dip: [°] the dip angle of the plane with respect to the horizontal.
 
+Note that, in our case, all x and y coordinates CH1903+/LV95 begin with the same digits, which were eliminated as unnecessary in the analysis we performed.
+
 ---
 **Filtered_planes.csv**
 
