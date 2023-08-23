@@ -1,9 +1,8 @@
 # StSulpiceFracturation
 This repository contains the numerical annexes to Emanuele J. Morotti's Bachelor's degree work, entitled "Caractérisation d'affleurements fracturés par photogrammétrie" and carried out at the University of Neuchâtel's Centre for Hydrogeology (CHYN) under the direction of prof. Benoît Valley.
-Ecco il testo formattato in stile non LaTeX:
 
 ---
-Nous présentons les fichiers ci-dessous.
+Below is a description of the files.
 
 ---
 **Planes.csv**
