@@ -5,7 +5,8 @@ Ecco il testo formattato in stile non LaTeX:
 ---
 Nous présentons les fichiers ci-dessous.
 
-**Planes.csv** \\
+**Planes.csv**
+
 Ce dossier contient tout les données de tous les plans extraits de la falaise traitée dans l'exemple d'application du workflow, selon les paramètres montré à la table [tab:parametres_facets]. Les colonnes du fichier incluent:
 - Index : le nom du plan, tel que généré par le plugin Facets.
 - CenterX : la position x du centre du plan (en CH1903+/LV95).
