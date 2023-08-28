@@ -34,6 +34,6 @@ This file contains information regarding the planes used in the analytical part 
 - Set: the number of the set to which the plane belongs.
 
 ---
-**St_Sulpice.ipynb**
+**StSulpice.ipynb**
 
 This document is a Python Jupyter Notebook file. It contains all the code that was used to analyze the data concerning the plans extracted by CloudCompare and Facets (e.g. calculation of spacing between families, creation of figures, etc.). A description is provided in comments directly within the file.
